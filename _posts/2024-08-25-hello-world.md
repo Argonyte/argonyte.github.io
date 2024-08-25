@@ -14,13 +14,6 @@ category:
   - blog
 ---
 
-<br>
-
-- [Introduction](#Introduction)
-- [Overview](#overview)
-
-<br>
-
 ## Introduction
 
 &emsp;&emsp;Hello World. Sort of cliche to start with something like this. But every start point begins with a hello, every program begins with a hello world and this journey will also begin the same way. I've hosted a static page on github pages since the end of 2020 and never really bothered changing it till now. This new page will now be hosting my blogs and any projects I do from now on.
