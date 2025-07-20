@@ -14,16 +14,16 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Argonyte # the main title
+title: Argonyte/Vesper # the main title
 
-tagline: I'm a passionate Cybersecurity and OSINT researcher with specialization in SOCMINT and IMINT. I also do Finance and have background in AML Analysis.  # it will display as the sub-title
+tagline: OSINT | Red Team | Finance  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  cybersecurity, blog, argonyte, osint, finance, aml, socmint, imint
+  cybersecurity, blog, argonyte, osint, finance, aml, socmint, imint, redteam
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://argonyte.github.io/"
+url: "https://argonyte.github.io"
 
 github:
   username: Argonyte # change to your github username
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Argonyte
-  email: argonyte@tutamail.com # change to your email address
+  email: vxprquest@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/argonyte # change to your twitter homepage
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/54732393?s=400&u=d5db0a439b69dfc39a63c5b94a19d9e5ecf02cf8&v=4
+avatar: https://avatars.githubusercontent.com/u/54732393?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
