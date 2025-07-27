@@ -13,8 +13,8 @@ description: Analysing the escalating hostilities between Thailand and Cambodia
 
 &emsp;&emsp;Thailand and Cambodia, both ASEAN partners, are now locked in their most serious military confrontation in over a decade. A conflict that marks the gravest escalation between the two nations in recent years.
 
-![FT Map of Zones](/assets/img/thailand-cambodia-skirmish/ft.png)
-_Map of Conflict Districts and Contested Temple Zones (Source: FT)_
+![FT Map of Zones](https://argonyte.github.io/assets/img/thailand-cambodia-skirmish/ft.png)
+_Map of Conflict Districts and Contested Temple Zones (Source: Financial Times)_
 
 For OSINT practitioners, this is a live case study: fragmented reports, competing official narratives, and fleeting digital traces are becoming the primary sources of situational awareness.
 
