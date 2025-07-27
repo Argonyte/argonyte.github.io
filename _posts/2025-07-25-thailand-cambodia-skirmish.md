@@ -142,7 +142,6 @@ For analysts like me, these “ghost posts” are invaluable for pre-deletion ca
 ## Conclusion
 Until credible mediation emerges, this flashpoint between Thailand and Cambodia will remain unresolved, not merely as a military standoff, but as a layered crisis of memory, identity, and geopolitical fault lines. The temple at the heart of the conflict is no longer just a structure of stone, but a symbol of sovereign defiance and regional fragility. For ASEAN, the test is existential: how to uphold unity without forfeiting relevance. For observers, this is OSINT in motion, where narrative control, metadata, and verified truths are the weapons of modern diplomacy.
 
----
 
 Sources: 
 - [Al Jazeera: Thai–Cambodian border clashes](https://www.aljazeera.com/news/2025/7/24/thai-military-reports-clash-with-cambodian-troops-at-disputed-border-area)
