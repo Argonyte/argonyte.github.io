@@ -140,7 +140,7 @@ For analysts like me, these “ghost posts” are invaluable for pre-deletion ca
   - UNICEF and humanitarian agencies raised concerns over displaced civilians and damage to schools and hospitals.
 
 ## Conclusion
-Until credible mediation emerges, this flashpoint between Thailand and Cambodia will remain unresolved, not merely as a military standoff, but as a layered crisis of memory, identity, and geopolitical fault lines. The temple at the heart of the conflict is no longer just a structure of stone, but a symbol of sovereign defiance and regional fragility. For ASEAN, the test is existential: how to uphold unity without forfeiting relevance. For observers, this is OSINT in motion, where narrative control, metadata, and verified truths are the weapons of modern diplomacy.
+Until credible mediators emerge, tensions between Thailand and Cambodia are likely to remain unresolved. This is not just a military standoff but a complex dispute shaped by historical memory, national identity, and geopolitical sensitivities. The temple at the center of the conflict has become more than ancient stone — it now stands as a symbol of sovereignty and regional fragility. For ASEAN, the challenge is to maintain unity while preserving relevance. For outside observers, this is open-source intelligence in motion where controlling the narrative, verifying facts, and tracking digital signals have become key instruments of modern diplomacy.
 
 
 Sources: 
